@@ -14,6 +14,6 @@ npm start
 
 ```
 
-
-> If you have suggestions in this project,please "qq" 3585897857 .
 > This game is an example in react.docs.com .
+> If you have suggestions in this project,please "qq" 3585897857 .
+
